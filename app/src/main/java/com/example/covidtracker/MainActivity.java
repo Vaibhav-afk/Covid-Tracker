@@ -108,8 +108,6 @@ public class MainActivity extends AppCompatActivity {
                                     startActivity(i);
                                 }
                             });
-                        } else {
-                            Toast.makeText(MainActivity.this, "Recheck state name!", Toast.LENGTH_SHORT).show();
                         }
                     }
                 }

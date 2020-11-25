@@ -112,7 +112,6 @@ public class MainActivity extends AppCompatActivity {
                             Toast.makeText(MainActivity.this, "Recheck state name!", Toast.LENGTH_SHORT).show();
                         }
                     }
-
                 }
             }catch (Exception e){
                 e.printStackTrace();

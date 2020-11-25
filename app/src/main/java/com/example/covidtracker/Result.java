@@ -17,6 +17,7 @@ public class Result extends AppCompatActivity {
     TextView dischargedResult;
     TextView deathsResult;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
